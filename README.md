@@ -14,7 +14,7 @@
 ## Требования
 
 - Python 3.6 или выше
-- Стандартные библиотеки Python (tkinter, json, os)
+- Стандартные библиотеки Python (tkinter, json, os, random, datetime)
 
 ## Установка и запуск
 
